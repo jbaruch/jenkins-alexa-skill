@@ -1,0 +1,28 @@
+{
+  "intents": [
+    {
+      "intent": "LastBuildIntent"
+    },
+    {
+      "intent": "FailBuildIntent"
+    },
+    {
+      "intent": "GetCodeCoverageIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    },
+    {
+      "intent": "AMAZON.YesIntent"
+    },
+    {
+      "intent": "AMAZON.NoIntent"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+LastBuildIntent how is my build
+LastBuildIntent what the status of my build
+LastBuildIntent what the status of my last build
+LastBuildIntent what the status of my last build in Jenkins
+LastBuildIntent how was my last build
+LastBuildIntent how my build is doing
+LastBuildIntent how is my last build
+LastBuildIntent how is my last build in Jenkins
+
+GetCodeCoverageIntent what was the code coverage
+GetCodeCoverageIntent how was the code coverage
+GetCodeCoverageIntent and the code coverage
+
+FailBuildIntent fail the build
+FailBuildIntent mark the build as failed
+FailBuildIntent fail it
